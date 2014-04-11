@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="app/build/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="app/build/source/r/debug"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="libraries/dropbox-android-sync-sdk-2.1.1/examples/HelloDropbox/src"/>
+	<classpathentry kind="src" path="libraries/dropbox-android-sync-sdk-2.1.1/examples/Notes/src"/>
+	<classpathentry kind="src" path="libraries/dropbox-android-sync-sdk-2.1.1/examples/Tasks/src"/>
+	<classpathentry kind="src" path="libraries/dropbox-android-sync-sdk-2.1.1/examples/Util"/>
+	<classpathentry kind="lib" path="app/build/exploded-bundles/ComAndroidSupportAppcompatV71910.aar/classes.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="libraries/dropbox-android-sync-sdk-2.1.1/examples/Notes/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="libraries/dropbox-android-sync-sdk-2.1.1/libs/dropbox-sync-sdk-android.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
