@@ -6,7 +6,7 @@ Code Challenge
 Read Me File:
 
  David Smith
- Mobiquity Code Challenge 4/11/14
+ Mobiquity Code Challenge
 
  Code Challenge:
 
